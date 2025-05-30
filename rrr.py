@@ -3,7 +3,6 @@ try:
 except ModuleNotFoundError:
     raise ModuleNotFoundError("Please install streamlit: pip install streamlit")
 
-import cv2
 import numpy as np
 import os
 
